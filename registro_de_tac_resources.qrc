@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/copy_dicom_folder.png</file>
+        <file>icons/from_dicom_files.png</file>
+        <file>icons/from_reg_file.png</file>
+        <file>icons/exit.ico</file>
+        <file>icons/windowico.png</file>
+    </qresource>
+</RCC>
